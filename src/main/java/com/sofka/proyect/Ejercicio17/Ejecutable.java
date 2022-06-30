@@ -17,7 +17,7 @@ public class Ejecutable {
         lista.add(new Television(150, "rojo", 'C', 150, 60,false));
         lista.add(new Lavadora(200, "verde", 'E', 20, 10));
         lista.add(new Lavadora(250, "verde", 'E', 200, 10));
-        
+
 
         int i = 0;
         double totElect=0;
